@@ -106,7 +106,7 @@ tr:nth-child(even) {
   background-color: black;
 }
 .txtWhite {
-  color: white;
+  color: white!important;
 }
 #txtBlack {
   color: black;
