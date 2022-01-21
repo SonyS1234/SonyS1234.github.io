@@ -34,6 +34,27 @@
   color: #004da7;
 }
 
+#nav-tab,
+#nav-baseball-tab,
+#nav-basketballm-tab,
+#nav-basketballf-tab,
+#nav-flagfootball-tab,
+#nav-lacrosse-tab,
+#nav-ringette-tab,
+#nav-rugbym-tab,
+#nav-rugbyf-tab,
+#nav-softball-tab,
+#nav-soccerm-tab,
+#nav-soccerf1-tab,
+#nav-soccerf2-tab,
+#nav-swimming-tab,
+#nav-trackandfield-tab,
+#nav-volleyballm-tab,
+#nav-volleyballf-tab {
+  background: #004da7;
+  color: #e8bc00;
+}
+
 .red {
   color: red;
 }
