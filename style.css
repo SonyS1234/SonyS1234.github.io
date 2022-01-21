@@ -35,9 +35,21 @@ a:active {
 }
 
 #nav-tab {
-  background-color: black;
+  background-color: #004da7;
 }
 
+.nav-link {
+  color: #e8bc00;
+}
+
+#bio {
+  color: #004da7;
+}
+
+.btn-primary {
+  background-color: #004da7;
+  color: #e8bc00;
+}
 .red {
   color: red;
 }
