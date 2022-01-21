@@ -1,95 +1,100 @@
-
 a:link {
-    color: pink;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:visited {
-    color: white;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    color: red;
-    background-color: transparent;
-    text-decoration: underline;
-  }
-  
-  a:active {
-    color: yellow;
-    background-color: transparent;
-    text-decoration: underline;
-  }
-
-.nav{
-    background-color: #E8BC00;
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
 }
 
-.navtext{
-    color: #004DA7;
-}
-#navtext{
-    color: #004DA7;
-}
-
-.red{
-    color:red
-}
-.fbBlue{
-    color:#63709A;
-}
-.twTeal{
-    color:#2DBDE5
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
 }
 
-.bgWhite{
-    background-color: white;
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
 }
-.bgBlack{
-    background-color: black;
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
 }
-.txtWhite{
-    color: white;
+
+.nav {
+  background-color: #e8bc00;
 }
-footer{
-    background-image: url(images/Image4.png);
-    background-repeat: none;
-    padding-left: 1.5rem;
+
+.navtext {
+  color: #004da7;
 }
-.footerdiv{
-    background-color: #004DA7;
+#navtext {
+  color: #004da7;
 }
-h4{
-    color: #E8BC00;
-    margin-top:2rem;
+
+#nav-tab {
+  background-color: black;
 }
-.followfont{
-    font-size: 2rem;
+
+.red {
+  color: red;
 }
-#stopkRight{
-    padding-right: 0rem;
+.fbBlue {
+  color: #63709a;
 }
-@media (max-width:400px){
-    .mobileLogo{
-        height: 40px;
-        width:195px;
-    }
+.twTeal {
+  color: #2dbde5;
+}
+
+.bgWhite {
+  background-color: white;
+}
+.bgBlack {
+  background-color: black;
+}
+.txtWhite {
+  color: white;
+}
+footer {
+  background-image: url(images/Image4.png);
+  background-repeat: none;
+  padding-left: 1.5rem;
+}
+.footerdiv {
+  background-color: #004da7;
+}
+h4 {
+  color: #e8bc00;
+  margin-top: 2rem;
+}
+.followfont {
+  font-size: 2rem;
+}
+#stopkRight {
+  padding-right: 0rem;
+}
+@media (max-width: 400px) {
+  .mobileLogo {
+    height: 40px;
+    width: 195px;
+  }
 }
 
 table {
-    border-collapse: collapse;
-    border-spacing: 0;
-    width: 100%;
-    border: 1px solid #ddd;
-  }
-  
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
 
-  th, td {
-    white-space: nowrap;
-    text-align: left;
-    padding: 8px;
-  }
-   
-  tr:nth-child(even){background-color: #f2f2f2}
+th,
+td {
+  white-space: nowrap;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
