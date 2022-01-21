@@ -1,6 +1,4 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Fjord+One&family=Roboto+Slab:wght@200;300;400;500;600&display=swap');
-</style>
+@import url("https://fonts.googleapis.com/css2?family=Fjord+One&family=Roboto+Slab:wght@200;300;400;500;600&display=swap");
 
 .nav {
   background-color: #e8bc00;
@@ -54,30 +52,30 @@ footer {
   background-color: #004da7;
 }
 
-h1  {
-  font-family: 'Roboto Slab', serif;
+h1 {
+  font-family: "Roboto Slab", serif;
 }
 
-h2  {
-  font-family: 'Roboto Slab', serif;
+h2 {
+  font-family: "Roboto Slab", serif;
 }
 
-h3  {
-  font-family: 'Roboto Slab', serif;
+h3 {
+  font-family: "Roboto Slab", serif;
 }
 
 h4 {
-  font-family: 'Roboto Slab', serif;
+  font-family: "Roboto Slab", serif;
   color: #e8bc00;
   margin-top: 2rem;
 }
 
 h5 {
-  font-family: 'Roboto Slab', serif;
+  font-family: "Roboto Slab", serif;
 }
 
 p {
-  font-family: 'Fjord One', serif;
+  font-family: "Fjord One", serif;
 }
 
 .followfont {
