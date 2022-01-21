@@ -1,5 +1,6 @@
+
 a:link {
-    color: red;
+    color: pink;
     background-color: transparent;
     text-decoration: none;
   }
@@ -26,15 +27,12 @@ a:link {
     background-color: #E8BC00;
 }
 
-
 .navtext{
-    color: #004DA7!important;
-    background-color: #E8BC00!important;
+    color: #004DA7;
 }
 #navtext{
     color: #004DA7;
 }
-
 
 .red{
     color:red
@@ -46,10 +44,18 @@ a:link {
     color:#2DBDE5
 }
 
-
-
+.bgWhite{
+    background-color: white;
+}
+.bgBlack{
+    background-color: black;
+}
+.txtWhite{
+    color: white;
+}
 footer{
     background-image: url(images/Image4.png);
+    background-repeat: none;
     padding-left: 1.5rem;
 }
 .footerdiv{
@@ -60,54 +66,15 @@ h4{
     margin-top:2rem;
 }
 .followfont{
-    color:#004DA7;
+    font-size: 2rem;
 }
 #stopkRight{
     padding-right: 0rem;
 }
-
-
-table {
-    border-collapse: collapse;
-    border-spacing: 0;
-    width: 100%;
-    border: 1px solid #ddd;
-  }
-  
-
-  th, td {
-    white-space: nowrap;
-    text-align: left;
-    padding: 8px;
-  }
-  .overf{
-    overflow-x:auto;
-  }
-   
-  tr:nth-child(even){background-color: #f2f2f2}
-
-  .bgWhite{
-    background-color: white;
-}
-.bgBlack{
-    background-color: black;
-}
-.txtWhite{
-    color: white;
-}
-#txtBlack{
-    color: black;
-}
-.txtBlack{
-    color: black!important;
-}
-ul{
-    list-style-type:none;
-}
-
-  @media (max-width:400px){
+@media (max-width:400px){
     .mobileLogo{
         height: 40px;
         width:195px;
     }
 }
+
