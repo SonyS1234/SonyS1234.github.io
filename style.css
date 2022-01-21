@@ -1,5 +1,6 @@
+/*I dont think we need the a:link*/
 a:link {
-  color: pink;
+  color: black;
   background-color: transparent;
   text-decoration: none;
 }
@@ -45,6 +46,9 @@ a:active {
 }
 .twTeal {
   color: #2dbde5;
+}
+.igPink {
+  color: #e1306c;
 }
 
 .bgWhite {
