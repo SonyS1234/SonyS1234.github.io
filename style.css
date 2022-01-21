@@ -118,6 +118,34 @@ ul {
   list-style-type: none;
 }
 
+#POW, #POW-heading, #teams-heading , #teams-button, #newsletter-header {
+    padding: 50px;
+}
+
+#newsletter-header {
+    color: #004DA7
+}
+
+.carouselTeams-Links {
+    color: white;
+}
+
+#usefulLinks {
+    background-color: #E8BC00;
+}
+
+#socialBar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    color: white;
+}
+
+#newsletter-form-p1, #newsletter-form-p2, #newsletter-form-p3 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 @media (max-width: 400px) {
   .mobileLogo {
     height: 40px;
