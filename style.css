@@ -1,21 +1,3 @@
-a:link {
-  color: red;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-a:active {
-  color: yellow;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
 .nav {
   background-color: #e8bc00;
 }
@@ -106,7 +88,7 @@ tr:nth-child(even) {
   background-color: black;
 }
 .txtWhite {
-  color: white!important;
+  color: white;
 }
 #txtBlack {
   color: black;
@@ -118,32 +100,56 @@ ul {
   list-style-type: none;
 }
 
-#POW, #POW-heading, #teams-heading , #teams-button, #newsletter-header {
-    padding: 50px;
+#POW,
+#POW-heading,
+#teams-heading,
+#teams-button,
+#newsletter-header {
+  padding: 50px;
 }
 
 #newsletter-header {
-    color: #004DA7
+  color: #004da7;
 }
 
 .carouselTeams-Links {
-    color: white;
+  color: white;
 }
 
 #usefulLinks {
-    background-color: #E8BC00;
+  background-color: #e8bc00;
 }
 
 #socialBar {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    background-color: black;
-    color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: black;
+  color: white;
 }
 
-#newsletter-form-p1, #newsletter-form-p2, #newsletter-form-p3 {
-    padding-top: 10px;
-    padding-bottom: 10px;
+#newsletter-form-p1,
+#newsletter-form-p2,
+#newsletter-form-p3 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+a:link {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
 }
 
 @media (max-width: 400px) {
