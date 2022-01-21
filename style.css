@@ -1,0 +1,136 @@
+a:link {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+.nav{
+    background-color: #E8BC00;
+}
+
+
+.navtext{
+    color: #004DA7!important;
+    background-color: #E8BC00!important;
+}
+/*  ░░░░░░░░░░░░▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄░░░░░░░░░░░░░
+    ░░░░░▄▄▄▄█▀▀▀░░░░░░░░░░░░▀▀██░░░░░░░░░░░
+    ░░▄███▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█▄▄▄░░░░░░░
+    ▄▀▀░█░░░░▀█▄▀▄▀██████░▀█▄▀▄▀████▀░░░░░░░
+    █░░░█░░░░░░▀█▄█▄███▀░░░░▀▀▀▀▀▀▀░▀▀▄░░░░░
+    █░░░█░▄▄▄░░░░░░░░░░░░░░░░░░░░░▀▀░░░█░░░░
+    █░░░▀█░░█░░░░▄░░░░▄░░░░░▀███▀░░░░░░░█░░░
+    █░░░░█░░▀▄░░░░░░▄░░░░░░░░░█░░░░░░░░█▀▄░░
+    ░▀▄▄▀░░░░░▀▀▄▄▄░░░░░░░▄▄▄▀░▀▄▄▄▄▄▀▀░░█░░
+    ░█▄░░░░░░░░░░░░▀▀▀▀▀▀▀░░░░░░░░░░░░░░█░░░
+    ░░█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄██░░░░
+    ░░▀█▄░░░░░░░░░░░░░░░░░░░░░░░░░▄▀▀░░░▀█░░
+    █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
+    █░░█▀▄ █▀▀ █▀█ █░░░░█░▄░█ █ ▀█▀ █░█░░█ ▀█▀░█
+    █░░█░█ █▀▀ █▀█ █░░░░▀▄▀▄▀ █ ░█░ █▀█░░█ ░█░░█
+    █░░▀▀░ ▀▀▀ ▀░▀ ▀▀▀░░░▀░▀░ ▀ ░▀░ ▀░▀░░▀ ░▀░░█
+    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀*/
+.antinavtext{
+    color: #E8BC00!important;
+    background-color:#004DA7 !important;
+}
+
+
+    #navtext{
+    color: #004DA7;
+}
+
+
+.red{
+    color:red
+}
+.fbBlue{
+    color:#63709A;
+}
+.twTeal{
+    color:#2DBDE5
+}
+
+
+
+footer{
+    background-image: url(images/Image4.png);
+    padding-left: 1.5rem;
+}
+.footerdiv{
+    background-color: #004DA7;
+}
+h4{
+    color: #E8BC00;
+    margin-top:2rem;
+}
+.followfont{
+    color:#004DA7;
+}
+#stopkRight{
+    padding-right: 0rem;
+}
+
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+  }
+  
+
+  th, td {
+    white-space: nowrap;
+    text-align: left;
+    padding: 8px;
+  }
+  .overf{
+    overflow-x:auto;
+  }
+   
+  tr:nth-child(even){background-color: #f2f2f2}
+
+  .bgWhite{
+    background-color: white;
+}
+.bgBlack{
+    background-color: black;
+}
+.txtWhite{
+    color: white;
+}
+#txtBlack{
+    color: black;
+}
+.txtBlack{
+    color: black!important;
+}
+ul{
+    list-style-type:none;
+}
+
+  @media (max-width:400px){
+    .mobileLogo{
+        height: 40px;
+        width:195px;
+    }
+}
