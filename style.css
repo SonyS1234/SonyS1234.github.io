@@ -182,7 +182,7 @@ a:hover {
 }
 
 a:active {
-  color: yellow;
+  color: white;
   background-color: transparent;
   text-decoration: underline;
 }
