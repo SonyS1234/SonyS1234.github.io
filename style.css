@@ -3,7 +3,23 @@
 .nav {
   background-color: #e8bc00;
 }
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
 
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
 .navtext {
   color: #004da7 !important;
   background-color: #e8bc00 !important;
@@ -169,23 +185,6 @@ ul {
   padding-bottom: 10px;
 }
 
-a:link {
-  color: blue;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-a:active {
-  color: white;
-  background-color: transparent;
-  text-decoration: underline;
-}
 
 @media (max-width: 400px) {
   .mobileLogo {
